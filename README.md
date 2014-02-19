@@ -1,6 +1,5 @@
 # WebRTC video chat by webrtclabs
- <a>http://webrtclabs.github.io/videochatwebrtc/>website</a>
- 
+ http://webrtclabs.github.io/videochatwebrtc
  project site
 This plugin enables real-time streaming of video and/or audio between two web browsers(or peers).
 <script data-gittip-username="webrtclabs"src="//gttp.co/v1.js"></script>
