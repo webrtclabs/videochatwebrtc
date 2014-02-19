@@ -39,7 +39,7 @@ Include the css within your head tag
 
 And finally, the bloody brilliant piece that makes it all happen --the JavaScript!
 
-This plugin enables real-time streaming of video between to browsers. Some more text here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus leo ipsum, tempor eget mollis in, vehicula eu quam. Fusce fermentum elit at lorem tincidunt eget tempus urna ultricies.
+This plugin enables real-time streaming of video between to browsers.
 
     <!-- JavaScript Ressources -->
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
@@ -54,7 +54,7 @@ This plugin enables real-time streaming of video between to browsers. Some more 
 
 ### Full Sample Demo Page (Putting it all Together)
 
-This plugin enables real-time streaming of video between to browsers. Some more text here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus leo ipsum, tempor eget mollis in, vehicula eu quam. Fusce fermentum elit at lorem tincidunt eget tempus urna ultricies.
+This plugin enables real-time streaming of video between to browsers. S
 
     <!DOCTYPE html>
     <html>
@@ -95,6 +95,10 @@ This plugin enables real-time streaming of video between to browsers. Some more 
     
     </body>
     </html>
+    
+ ###sinal server for selfhosted servers
+ 
+ http://webrtclabs.github.io/signalserver/
 
 ### Browser Support
 
