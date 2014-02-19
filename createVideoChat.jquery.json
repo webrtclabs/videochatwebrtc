@@ -1,0 +1,39 @@
+{
+    "name": "createVideoChat",
+    "title": "WebRTC Video Chat",
+    "description": "This plugin enables real-time streaming of video and/or audio between two web browsers (or peers).",
+    "keywords": [
+        "html5",
+        "webrtc"
+    ],
+    "version": "1.0.6",
+    "author": {
+        "name": "Fresh Tilled Soil",
+        "url": "http://freshtilledsoil.com"
+    },
+    "maintainers": [
+        {
+            "name": "Paul Greenlea",
+            "email": "paul.greenlea@freshtilledsoil.com",
+            "url": "http://freshtilledsoil.com"
+        },
+        {
+            "name": "Tim Wright",
+            "email": "timwright12@gmail.com",
+            "url": "http://freshtilledsoil.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/freshtilledsoil/webrtc-jquery-plugin/blob/master/LICENSE"
+        }
+    ],
+    "bugs": "https://github.com/freshtilledsoil/webrtc-jquery-plugin/issues",
+    "homepage": "https://github.com/freshtilledsoil/webrtc-jquery-plugin",
+    "docs": "https://github.com/freshtilledsoil/webrtc-jquery-plugin",
+    "download": "https://github.com/freshtilledsoil/webrtc-jquery-plugin",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
