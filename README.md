@@ -1,4 +1,4 @@
-# WebRTC jQuery plugin
+# WebRTC video chat by webrtclabs
 
 This plugin enables real-time streaming of video and/or audio between two web browsers(or peers).
 
