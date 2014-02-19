@@ -1,5 +1,5 @@
 // --------------------------------------------------------------------------------------------
-// Fresh Tilled Soil - WebRTC jQuery Plugin
+// Webrtclabs video chat using jquery plugin
 // --------------------------------------------------------------------------------------------
 (function ($, window, document, undefined) {
 
