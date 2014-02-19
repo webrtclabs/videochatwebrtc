@@ -58,7 +58,7 @@ This plugin enables real-time streaming of video between to browsers. Some more 
     <html>
     <head>
     <meta charset="UTF-8">
-    <title>Fresh Tilled Soil Video Conference | WebRTC jQuery Plug-in Demo</title>
+    <title>video chat by webrtclabs  | WebRTC jQuery Plug-in Demo</title>
     
     <!-- Stylesheet Resources -->
     <link rel="stylesheet" href="css/fts-webrtc-styles.css">
